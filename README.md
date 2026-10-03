@@ -15,12 +15,12 @@
 ## $ whoami
 
 ```text
-$ whoami
-kamalini, but everyone says "kams"
+$ whoami - still to figure it out!
+but you can call me "kaams" (rhymes with "calms")
 
 $ cat about.txt
 B.Tech CSE, Amrita Vishwa Vidyapeetham (batch of 2028)
-Secretary at iDEA-Amrita, the college innovation club
+Secretary at iDEA-Amrita, the college Tech club
 Research niche: NLP/ML for classical Tamil
 
 $ cat philosophy.txt
