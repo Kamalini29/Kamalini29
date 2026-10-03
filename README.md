@@ -16,7 +16,7 @@
 
 ```text
 $ whoami - still to figure it out!
-but you can call me "kaams" (rhymes with "calms")
+but you can call me "kams" (rhymes with "calms")
 
 $ cat about.txt
 B.Tech CSE, Amrita Vishwa Vidyapeetham (batch of 2028)
