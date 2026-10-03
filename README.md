@@ -78,12 +78,9 @@ I built a Morse transceiver, so of course I encoded my own name first.
 
 ---
 
-## Stats
+## Languages
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kamalini29&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalini29&layout=compact&hide_border=true" />
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalini29&layout=compact&hide_border=true&hide=jupyter%20notebook" /> </p>
 
 ---
 
